@@ -1,4 +1,5 @@
-##About Me: 
+
+# About Me:
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning software development with ALX.
