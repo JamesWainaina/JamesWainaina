@@ -6,4 +6,4 @@ About Me:
 - ⚡ Fun fact: comfort is the enemy of progress.
 
 
-![James GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesGatheru&theme=dark&show_icons=true)
+![James GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWainaina&theme=dark&show_icons=true)
