@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on building my portfolio
+
 - 🌱 I’m currently learning full stack software development with ALX.
 - 📫 How to reach me: wainainajamesgatheru@gmail.com
 - ⚡ Fun fact: comfort is the enemy of progress.
