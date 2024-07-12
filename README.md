@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 
-- 🌱 I’m currently learning full stack software development with ALX.
+- 🌱 I’m currently completing my studies as a full stack software development with ALX.
 - 📫 How to reach me: wainainajamesgatheru@gmail.com
 - ⚡ Fun fact: comfort is the enemy of progress.
 
