@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/james-gatheru-2282b1212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSYjSgIqLRzC4n1U9as7vCw%3D%3D)
 &nbsp;
 
 # 💻 Tech Stack:
