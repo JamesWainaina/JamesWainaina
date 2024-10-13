@@ -66,7 +66,7 @@ These are some of the projects I have been working on:
 -  ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 -  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-### 3. [Billnasi](https://app.billnasi.com)
+### 3. [BillNasi](https://app.billnasi.com)
 - **Description**: This is a system for internet service providers to manage billing and account services for their clients.
 - To login -> username: demo    -password:  demo1234
 - **Tech Stack**:
