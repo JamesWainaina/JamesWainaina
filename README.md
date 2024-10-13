@@ -50,7 +50,8 @@ These are some of the projects I have been working on:
 
 ### 1. [Horizon](https://banking-system-seven-theta.vercel.app)
 - **Description**: This is a modern banking web application that lets you manage your finances for various banks.
-- **Tech Stack**: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- **Tech Stack**:
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### 2. [Project Name 2](https://github.com/JamesWainaina/project2)
