@@ -68,6 +68,7 @@ These are some of the projects I have been working on:
 
 ### 3. [Billnasi](https://app.billnasi.com)
 - **Description**: This is a system for internet service providers to manage billing and account services for their clients.
+- **To login username: demo -  password:  demo1234
 - **Tech Stack**:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
