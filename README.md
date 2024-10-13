@@ -20,6 +20,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JamesWainaina&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesWainaina&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+# 💼 Projects:
+
+### 1. [Project Name 1](https://github.com/JamesWainaina/project1)
+- **Description**: A brief description of the project, what it does, and key technologies used.
+- **Tech Stack**: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 2. [Project Name 2](https://github.com/JamesWainaina/project2)
+- **Description**: Brief description highlighting the problem solved or goals achieved in this project.
+- **Tech Stack**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 3. [Project Name 3](https://github.com/JamesWainaina/project3)
+- **Description**: Another brief description. Consider including what you learned or significant challenges you tackled.
+- **Tech Stack**: ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
