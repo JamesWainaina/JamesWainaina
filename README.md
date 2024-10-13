@@ -17,6 +17,10 @@
 
 # 💼 Projects:
 
+These are some of the projects I have been working on:
+
+
+
 ### 1. [Project Name 1](https://github.com/JamesWainaina/project1)
 - **Description**: A brief description of the project, what it does, and key technologies used.
 - **Tech Stack**: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
