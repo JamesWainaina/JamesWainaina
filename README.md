@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 
-- 🌱 I’m currently completing my studies as a full stack software development with ALX.
+- 🌱 I’m currently completing my studies as a full-stack software developer with ALX.
 - 📫 How to reach me: wainainajamesgatheru@gmail.com
 - ⚡ Fun fact: comfort is the enemy of progress.
 
@@ -52,15 +52,28 @@ These are some of the projects I have been working on:
 - **Description**: This is a modern banking web application that lets you manage your finances for various banks.
 - **Tech Stack**:
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+- ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### 2. [Project Name 2](https://github.com/JamesWainaina/project2)
-- **Description**: Brief description highlighting the problem solved or goals achieved in this project.
-- **Tech Stack**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 2. [Hawthorne](https://hawthornmentalhealth.com/)
+- **Description**: I created a healthcare booking system,for booking doctors' appointments.
+- **Tech Stack**:
+-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
+-  ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### 3. [Project Name 3](https://github.com/JamesWainaina/project3)
-- **Description**: Another brief description. Consider including what you learned or significant challenges you tackled.
-- **Tech Stack**: ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Description**: This is a system for internet service providers to manage billing and account services for their clients.
+- **Tech Stack**:
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
 
