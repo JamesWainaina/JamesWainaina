@@ -45,7 +45,9 @@
 
 # 💼 Projects:
 
-These are some of the projects I have been working on:
+These are some of the projects I have been working on
+
+  #- Click on the names to see the deployed versions
 
 
 
