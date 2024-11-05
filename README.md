@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 
-- 🌱 I’m currently completing my studies as a full-stack software developer with ALX.
+- 🌱 Graduate of Software Engineering from The African Leadership University.
 - 📫 How to reach me: wainainajamesgatheru@gmail.com
 - ⚡ Fun fact: comfort is the enemy of progress.
 
