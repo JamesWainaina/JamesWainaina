@@ -46,7 +46,7 @@
 
 These are some of the projects I have been working on
 
-  #- Click on the names to see the deployed versions
+  - Click on the names to see the deployed versions
 
 
 
@@ -81,7 +81,7 @@ These are some of the projects I have been working on
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 4. [Starends](https://stanreds-architects.vercel.app/)
-- **Description**: Construction company showcasing their services and Projects.
+- **Description**: Construction company website showcasing their services and Projects.
   
 - **Tech Stack**:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
