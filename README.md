@@ -102,7 +102,6 @@ These are some of the projects I have been working on
 
 - **Description**: MedDrone: Revolutionizing Medicine Delivery via Drones
 MedDrone is an innovative RESTful API designed to manage the entire lifecycle of drone-based medicine delivery systems. With MedDrone, healthcare providers can harness the power of autonomous drones to deliver life-saving medications with speed, accuracy, and reliability—especially in remote or hard-to-reach areas.
-
 Our API offers seamless management of the drone fleet, real-time tracking, and optimized delivery routes to ensure efficient and timely deliveries. By integrating cutting-edge technology, MedDrone not only enhances the logistics of medicine distribution but also helps reduce response times in emergencies, potentially saving countless lives.
 
   
