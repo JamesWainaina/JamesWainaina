@@ -90,7 +90,9 @@ These are some of the projects I have been working on
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 4. [Starends](https://stanreds-architects.vercel.app/)
-- **Description**: Construction company website showcasing their services and Projects.
+- **Description**:
+
+  I developed a dynamic website for a construction company to showcase their services, projects, and company profile. The website provides an interactive, visually appealing platform for potential clients to explore the company’s portfolio, view completed projects, and learn about the range of services offered. Built with TypeScript for type safety and robust application architecture, and powered by Next.js for optimized performance, server-side rendering, and smooth navigation, the website ensures a fast and seamless user experience. The design emphasizes a professional, user-friendly interface with responsive layouts, making it easy for visitors to browse the company’s work on any device. This solution helps the construction company improve its online presence, engage potential clients, and highlight its expertise in the industry.
   
 - **Tech Stack**:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
