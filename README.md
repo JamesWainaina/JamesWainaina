@@ -50,7 +50,10 @@ These are some of the projects I have been working on
 
 
 ### 1. [Horizon](https://banking-system-seven-theta.vercel.app)
-- **Description**: This is a modern banking web application that lets you manage your finances for various banks.
+
+- **Description**:
+- This modern banking web application enables users to seamlessly manage their finances across multiple banks in one place. It provides a secure and user-friendly interface for tracking balances, transactions, and transfers, offering a centralized hub for managing personal or business finances. Built using Next.js for server-side rendering and efficient routing, ReactJS for a dynamic and responsive user interface, and MongoDB for scalable, high-performance data storage, the application ensures fast and reliable access to financial data. The platform emphasizes user experience, security, and efficiency, providing a comprehensive solution for multi-bank account management
+  
 - **Tech Stack**:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
@@ -58,7 +61,10 @@ These are some of the projects I have been working on
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 2. [Hawthorne](https://hawthornmentalhealth.com/)
-- **Description**: I created a healthcare booking system, for booking doctors' appointments.
+
+- **Description**:
+- I developed a healthcare booking system that allows patients to easily schedule doctor appointments online. The platform provides a seamless, user-friendly interface where users can browse available doctors, view their profiles and specialties, and book appointments based on availability. Built using Java and Spring Boot for the back end, the system ensures robust and scalable performance, while React powers the front end, delivering a responsive and intuitive user experience. MongoDB is used for efficient storage and management of user and appointment data. The system also includes JUnit testing to ensure reliability and maintain code quality. This solution streamlines the healthcare appointment process, enhancing convenience for both patients and healthcare providers.
+  
 - **Tech Stack**:
 -  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 -  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -68,8 +74,12 @@ These are some of the projects I have been working on
 -  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### 3. [BillNasi](https://app.billnasi.com)
-- **Description**: This is a system for internet service providers to manage billing and account services for their clients.
+
+- **Description**:
+- I developed a comprehensive billing and account management system for internet service providers, streamlining client account services, invoicing, and payment tracking. This platform enables ISPs to efficiently manage client subscriptions, automate billing processes, and track payment statuses with ease. The back-end is powered by Python and Flask, providing a lightweight yet powerful framework for handling data and processing requests. Nginx ensures high availability and load balancing for smooth server operations, while MySQL serves as the secure and reliable database for managing client and billing data. The front-end, built using HTML5, CSS3, and JavaScript, offers a clean and intuitive user interface for both administrators and customers, enhancing the overall user experience. This system improves operational efficiency and provides real-time insights into account and billing activities.
 - To login -> username: demo    -password:  demo1234
+
+  
 - **Tech Stack**:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
@@ -88,7 +98,10 @@ These are some of the projects I have been working on
   
 ### 5. [MedDrone](https://github.com/JamesWainaina/MedDrone)
 
-- **Description**: This is a Spring Boot application for managing a fleet of drones that deliver medications. The application provides RESTful APIs to register drones, load them with medications, check their battery levels, and more.
+- **Description**: MedDrone: Revolutionizing Medicine Delivery via Drones
+MedDrone is an innovative RESTful API designed to manage the entire lifecycle of drone-based medicine delivery systems. With MedDrone, healthcare providers can harness the power of autonomous drones to deliver life-saving medications with speed, accuracy, and reliability—especially in remote or hard-to-reach areas.
+
+Our API offers seamless management of the drone fleet, real-time tracking, and optimized delivery routes to ensure efficient and timely deliveries. By integrating cutting-edge technology, MedDrone not only enhances the logistics of medicine distribution but also helps reduce response times in emergencies, potentially saving countless lives.
 
   
 - **Tech Stack**:
