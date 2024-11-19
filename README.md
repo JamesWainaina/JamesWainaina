@@ -112,8 +112,6 @@ Our API offers seamless management of the drone fleet, real-time tracking, and o
 
 ### 6. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
 
-# High-Performance TCP Server for Real-Time File Search and SSL Authentication
-
 This is a multi-threaded TCP server that handles concurrent client connections and efficiently performs string searches within large files. The server is capable of reading configuration files to dynamically locate a file path and checks if a specified string exists in that file. The system is optimized for performance and includes security features like SSL authentication for encrypted communication.
 
 ## Features
@@ -129,11 +127,8 @@ This is a multi-threaded TCP server that handles concurrent client connections a
  ## Tech Stack
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- The server is implemented using Python for ease of development and performance.
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-- Used for load balancing and managing incoming connections.
 -![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- Database for configuration and logging data storage (if needed).
 - **SSL/TLS**: Secure communication between clients and the server.
 
 # 📊 GitHub Stats:
