@@ -54,7 +54,7 @@ These are some of the projects I have been working on
 - **Description**:
 - This modern banking web application enables users to seamlessly manage their finances across multiple banks in one place. It provides a secure and user-friendly interface for tracking balances, transactions, and transfers, offering a centralized hub for managing personal or business finances. Built using Next.js for server-side rendering and efficient routing, ReactJS for a dynamic and responsive user interface, and MongoDB for scalable, high-performance data storage, the application ensures fast and reliable access to financial data. The platform emphasizes user experience, security, and efficiency, providing a comprehensive solution for multi-bank account management
   
-- **Tech Stack**:
+## Tech Stack
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 - ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
@@ -65,7 +65,7 @@ These are some of the projects I have been working on
 - **Description**:
 - I developed a healthcare booking system that allows patients to easily schedule doctor appointments online. The platform provides a seamless, user-friendly interface where users can browse available doctors, view their profiles and specialties, and book appointments based on availability. Built using Java and Spring Boot for the back end, the system ensures robust and scalable performance, while React powers the front end, delivering a responsive and intuitive user experience. MongoDB is used for efficient storage and management of user and appointment data. The system also includes JUnit testing to ensure reliability and maintain code quality. This solution streamlines the healthcare appointment process, enhancing convenience for both patients and healthcare providers.
   
-- **Tech Stack**:
+## Tech Stack
 -  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 -  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 -  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -80,7 +80,7 @@ These are some of the projects I have been working on
 - To login -> username: demo    -password:  demo1234
 
   
-- **Tech Stack**:
+## Tech Stack
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -94,7 +94,7 @@ These are some of the projects I have been working on
 
   I developed a dynamic website for a construction company to showcase their services, projects, and company profile. The website provides an interactive, visually appealing platform for potential clients to explore the company’s portfolio, view completed projects, and learn about the range of services offered. Built with TypeScript for type safety and robust application architecture, and powered by Next.js for optimized performance, server-side rendering, and smooth navigation, the website ensures a fast and seamless user experience. The design emphasizes a professional, user-friendly interface with responsive layouts, making it easy for visitors to browse the company’s work on any device. This solution helps the construction company improve its online presence, engage potential clients, and highlight its expertise in the industry.
   
-- **Tech Stack**:
+## Tech Stack
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   
@@ -105,13 +105,14 @@ MedDrone is an innovative RESTful API designed to manage the entire lifecycle of
 Our API offers seamless management of the drone fleet, real-time tracking, and optimized delivery routes to ensure efficient and timely deliveries. By integrating cutting-edge technology, MedDrone not only enhances the logistics of medicine distribution but also helps reduce response times in emergencies, potentially saving countless lives.
 
   
-- **Tech Stack**:
+## Tech Stack
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
 - 
 
 ### 6. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
 
+- **Description**:
 This is a multi-threaded TCP server that handles concurrent client connections and efficiently performs string searches within large files. The server is capable of reading configuration files to dynamically locate a file path and checks if a specified string exists in that file. The system is optimized for performance and includes security features like SSL authentication for encrypted communication.
 
 ## Features
