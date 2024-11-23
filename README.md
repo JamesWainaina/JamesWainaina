@@ -108,12 +108,31 @@ Our API offers seamless management of the drone fleet, real-time tracking, and o
 ## Tech Stack
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
-  
+
+
+
+### 5. [KEYSPRING](https://github.com/JamesWainaina/MedDrone)
+
+- **Description**: is a Spring Boot-based application that integrates with **Keycloak** to provide secure, robust, and easy-to-manage authentication and authorization for users. This project demonstrates how to use Keycloak for identity and access management in a Spring Boot application, covering configuration, integration, and usage of OAuth2 and OpenID Connect protocols for seamless security management.
+
+## Features
+
+- **Keycloak Integration**: Secure user authentication and role-based access control (RBAC) with Keycloak.
+- **OAuth2/OpenID Connect**: Leverage OAuth2 and OIDC for standardized, secure communication.
+- **Role-Based Access Control**: Enforce access control based on user roles defined in Keycloak.
+- **Spring Boot**: Built using the powerful Spring Boot framework for a fast, scalable, and modular solution.
+- **REST API Security**: Protect REST endpoints using Keycloak authorization.
+- **Configurable Security**: Easily configure Keycloak using Spring Boot's configuration properties.
+
+## Tech Stack
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 6. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
 
 - **Description**:
-This is a multi-threaded TCP server that handles concurrent client connections and efficiently performs string searches within large files. The server is capable of reading configuration files to dynamically locate a file path and checks if a specified string exists in that file. The system is optimized for performance and includes security features like SSL authentication for encrypted communication.
+This multi-threaded TCP server handles concurrent client connections and efficiently performs string searches within large files. The server can read configuration files to dynamically locate a file path and check if a specified string exists in that file. The system is optimized for performance and includes security features like SSL authentication for encrypted communication.
 
 ## Features
 
