@@ -151,6 +151,31 @@ This multi-threaded TCP server handles concurrent client connections and efficie
 - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - **SSL/TLS**: Secure communication between clients and the server.
 
+
+### 7. [Terminal Screen](https://github.com/JamesWainaina/Terminal-Screen)
+
+- **Description**:
+The Terminal Screen Project simulates rendering operations on a terminal-based screen using a custom binary protocol. This project involves a server-client setup where the server listens for commands related to screen rendering, and the client sends commands to the server to manipulate the terminal screen. 
+
+The communication between the client and the server is based on a byte-stream protocol, with each command being formatted as a sequence of bytes. The system supports various operations, such as setting up the screen, drawing characters, lines, rendering text, moving the cursor, and more.
+
+
+## Features
+
+## Features
+- **Screen Setup (0x1):** Configure screen dimensions and color modes.
+- **Draw Character (0x2):** Place characters at specific coordinates.
+- **Draw Line (0x3):** Draw lines between two coordinates using a specified character.
+- **Render Text (0x4):** Render a string at a specified position.
+- **Cursor Movement (0x5):** Move the cursor to a specific location.
+- **Draw at Cursor (0x6):** Draw a character at the current cursor position.
+- **Clear Screen (0x7):** Clear the screen.
+- **End of File (0xFF):** Marks the end of the binary stream.
+
+## Tech Stack
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JamesWainaina&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JamesWainaina&theme=dark&hide_border=false)<br/>
