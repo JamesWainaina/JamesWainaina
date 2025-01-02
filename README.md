@@ -74,7 +74,7 @@ These are some of the projects I have been working on
 
 - **Description**:
 - I developed a comprehensive billing and account management system for internet service providers, streamlining client account services, invoicing, and payment tracking. This platform enables ISPs to efficiently manage client subscriptions, automate billing processes, and track payment statuses with ease. The back-end is powered by Python and Flask, providing a lightweight yet powerful framework for handling data and processing requests. Nginx ensures high availability and load balancing for smooth server operations, while MySQL serves as the secure and reliable database for managing client and billing data. The front-end, built using HTML5, CSS3, and JavaScript, offers a clean and intuitive user interface for both administrators and customers, enhancing the overall user experience. This system improves operational efficiency and provides real-time insights into account and billing activities.
-- To login -> username: demo    -password:  demo1234
+
 
   
 ## Tech Stack
