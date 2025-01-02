@@ -123,8 +123,8 @@ Our API offers seamless management of the drone fleet, real-time tracking, and o
 
 ## Tech Stack
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 6. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
 
