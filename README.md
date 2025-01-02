@@ -37,7 +37,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
 
 
 
@@ -70,7 +70,7 @@ These are some of the projects I have been working on
 -  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 -  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-### 3. [BillNasi](https://app.billnasi.com)
+### 3. [BillNasi](https://app.billnasi.com/index)
 
 - **Description**:
 - I developed a comprehensive billing and account management system for internet service providers, streamlining client account services, invoicing, and payment tracking. This platform enables ISPs to efficiently manage client subscriptions, automate billing processes, and track payment statuses with ease. The back-end is powered by Python and Flask, providing a lightweight yet powerful framework for handling data and processing requests. Nginx ensures high availability and load balancing for smooth server operations, while MySQL serves as the secure and reliable database for managing client and billing data. The front-end, built using HTML5, CSS3, and JavaScript, offers a clean and intuitive user interface for both administrators and customers, enhancing the overall user experience. This system improves operational efficiency and provides real-time insights into account and billing activities.
