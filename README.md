@@ -66,11 +66,8 @@ These are some of the projects I have been working on
 - I developed a healthcare booking system that allows patients to easily schedule doctor appointments online. The platform provides a seamless, user-friendly interface where users can browse available doctors, view their profiles and specialties, and book appointments based on availability. Built using Java and Spring Boot for the back end, the system ensures robust and scalable performance, while React powers the front end, delivering a responsive and intuitive user experience. MongoDB is used for efficient storage and management of user and appointment data. The system also includes JUnit testing to ensure reliability and maintain code quality. This solution streamlines the healthcare appointment process, enhancing convenience for both patients and healthcare providers.
   
 ## Tech Stack
--  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 -  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 -  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
--  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
--  ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 -  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### 3. [BillNasi](https://app.billnasi.com)
