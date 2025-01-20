@@ -60,17 +60,7 @@ These are some of the projects I have been working on
 - ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 2. [Hawthorne](https://hawthornmentalhealth.com/)
-
-- **Description**:
-- I developed a healthcare booking system that allows patients to easily schedule doctor appointments online. The platform provides a seamless, user-friendly interface where users can browse available doctors, view their profiles and specialties, and book appointments based on availability. Built using Java and Spring Boot for the back end, the system ensures robust and scalable performance, while React powers the front end, delivering a responsive and intuitive user experience. MongoDB is used for efficient storage and management of user and appointment data. The system also includes JUnit testing to ensure reliability and maintain code quality. This solution streamlines the healthcare appointment process, enhancing convenience for both patients and healthcare providers.
-  
-## Tech Stack
--  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
--  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
--  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-### 3. [BillNasi](https://app.billnasi.com/index)
+### 2. [BillNasi](https://app.billnasi.com/index)
 
 - **Description**:
 - I developed a comprehensive billing and account management system for internet service providers, streamlining client account services, invoicing, and payment tracking. This platform enables ISPs to efficiently manage client subscriptions, automate billing processes, and track payment statuses with ease. The back-end is powered by Python and Flask, providing a lightweight yet powerful framework for handling data and processing requests. Nginx ensures high availability and load balancing for smooth server operations, while MySQL serves as the secure and reliable database for managing client and billing data. The front-end, built using HTML5, CSS3, and JavaScript, offers a clean and intuitive user interface for both administrators and customers, enhancing the overall user experience. This system improves operational efficiency and provides real-time insights into account and billing activities.
@@ -86,7 +76,7 @@ These are some of the projects I have been working on
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 4. [Starends](https://stanreds-architects.vercel.app/)
+### 3. [Starends](https://stanreds-architects.vercel.app/)
 - **Description**:
 
   I developed a dynamic website for a construction company to showcase their services, projects, and company profile. The website provides an interactive, visually appealing platform for potential clients to explore the company’s portfolio, view completed projects, and learn about the range of services offered. Built with TypeScript for type safety and robust application architecture, and powered by Next.js for optimized performance, server-side rendering, and smooth navigation, the website ensures a fast and seamless user experience. The design emphasizes a professional, user-friendly interface with responsive layouts, making it easy for visitors to browse the company’s work on any device. This solution helps the construction company improve its online presence, engage potential clients, and highlight its expertise in the industry.
@@ -95,7 +85,7 @@ These are some of the projects I have been working on
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   
-### 5. [MedDrone](https://github.com/JamesWainaina/MedDrone)
+### 4. [MedDrone](https://github.com/JamesWainaina/MedDrone)
 
 - **Description**: MedDrone: Revolutionizing Medicine Delivery via Drones
 MedDrone is an innovative RESTful API designed to manage the entire lifecycle of drone-based medicine delivery systems. With MedDrone, healthcare providers can harness the power of autonomous drones to deliver life-saving medications with speed, accuracy, and reliability—especially in remote or hard-to-reach areas.
