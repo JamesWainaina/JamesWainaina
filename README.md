@@ -60,23 +60,10 @@ These are some of the projects I have been working on
 - ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 2. [BillNasi](https://app.billnasi.com/index)
-
-- **Description**:
-- I developed a comprehensive billing and account management system for internet service providers, streamlining client account services, invoicing, and payment tracking. This platform enables ISPs to efficiently manage client subscriptions, automate billing processes, and track payment statuses with ease. The back-end is powered by Python and Flask, providing a lightweight yet powerful framework for handling data and processing requests. Nginx ensures high availability and load balancing for smooth server operations, while MySQL serves as the secure and reliable database for managing client and billing data. The front-end, built using HTML5, CSS3, and JavaScript, offers a clean and intuitive user interface for both administrators and customers, enhancing the overall user experience. This system improves operational efficiency and provides real-time insights into account and billing activities.
-
 
   
-## Tech Stack
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 3. [Starends](https://stanreds-architects.vercel.app/)
+### 2. [Starends](https://stanreds-architects.vercel.app/)
 - **Description**:
 
   I developed a dynamic website for a construction company to showcase their services, projects, and company profile. The website provides an interactive, visually appealing platform for potential clients to explore the company’s portfolio, view completed projects, and learn about the range of services offered. Built with TypeScript for type safety and robust application architecture, and powered by Next.js for optimized performance, server-side rendering, and smooth navigation, the website ensures a fast and seamless user experience. The design emphasizes a professional, user-friendly interface with responsive layouts, making it easy for visitors to browse the company’s work on any device. This solution helps the construction company improve its online presence, engage potential clients, and highlight its expertise in the industry.
@@ -85,7 +72,7 @@ These are some of the projects I have been working on
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   
-### 4. [MedDrone](https://github.com/JamesWainaina/MedDrone)
+### 3. [MedDrone](https://github.com/JamesWainaina/MedDrone)
 
 - **Description**: MedDrone: Revolutionizing Medicine Delivery via Drones
 MedDrone is an innovative RESTful API designed to manage the entire lifecycle of drone-based medicine delivery systems. With MedDrone, healthcare providers can harness the power of autonomous drones to deliver life-saving medications with speed, accuracy, and reliability—especially in remote or hard-to-reach areas.
@@ -98,7 +85,7 @@ Our API offers seamless management of the drone fleet, real-time tracking, and o
 
 
 
-### 5. [KeySpring](https://github.com/JamesWainaina/keySPring-)
+### 4. [KeySpring](https://github.com/JamesWainaina/keySPring-)
 
 - **Description**: is a Spring Boot-based application that integrates with **Keycloak** to provide secure, robust, and easy-to-manage authentication and authorization for users. This project demonstrates how to use Keycloak for identity and access management in a Spring Boot application, covering configuration, integration, and usage of OAuth2 and OpenID Connect protocols for seamless security management.
 
@@ -116,7 +103,7 @@ Our API offers seamless management of the drone fleet, real-time tracking, and o
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 6. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
+### 5. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
 
 - **Description**:
 This multi-threaded TCP server handles concurrent client connections and efficiently performs string searches within large files. The server can read configuration files to dynamically locate a file path and check if a specified string exists in that file. The system is optimized for performance and includes security features like SSL authentication for encrypted communication.
@@ -139,7 +126,7 @@ This multi-threaded TCP server handles concurrent client connections and efficie
 - **SSL/TLS**: Secure communication between clients and the server.
 
 
-### 7. [Terminal Screen](https://github.com/JamesWainaina/Terminal-Screen)
+### 6. [Terminal Screen](https://github.com/JamesWainaina/Terminal-Screen)
 
 - **Description**:
 The Terminal Screen Project simulates rendering operations on a terminal-based screen using a custom binary protocol. This project involves a server-client setup where the server listens for commands related to screen rendering, and the client sends commands to the server to manipulate the terminal screen. 
