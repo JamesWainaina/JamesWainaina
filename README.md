@@ -78,14 +78,15 @@ BillNasi is an advanced and easy-to-use ISP management application designed to s
 
 ## Key Features
 - **Unified Dashboard**: Manage both Hotspot and PPPoE configurations from one user-friendly interface, eliminating the need for multiple platforms.
-**Unlimited Router Support**: BillNasi allows you to control and manage multiple MikroTik routers from one place.
-**Instant Client Reconnection**: Experience real-time reconnection for clients without delays or service interruptions.
-**Automated SMS Alerts**: Keep clients informed with instant SMS notifications for important events like reconnections, data usage limits, or service disruptions.
-**Real-Time Analytics**: Track data usage, revenue, and network statistics in real time to make data-driven decisions that improve performance and profitability.
-**Reliable Uptime**: With a consistent 99% uptime and regular system upgrades, BillNasi ensures that your network management tools are always accessible when you need them.
+- **Unlimited Router Support**: BillNasi allows you to control and manage multiple MikroTik routers from one place.
+- **Instant Client Reconnection**: Experience real-time reconnection for clients without delays or service interruptions.
+- **Automated SMS Alerts**: Keep clients informed with instant SMS notifications for important events like reconnections, data usage limits, or service disruptions.
+- **Real-Time Analytics**: Track data usage, revenue, and network statistics in real time to make data-driven decisions that improve performance and profitability.
+- **Reliable Uptime**: With a consistent 99% uptime and regular system upgrades, BillNasi ensures that your network management tools are always accessible when you need them.
 
 ## Tech Stack
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   
 ### 4. [MedDrone](https://github.com/JamesWainaina/MedDrone)
 
