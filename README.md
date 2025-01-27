@@ -52,7 +52,7 @@ These are some of the projects I have been working on
 ### 1. [Horizon](https://banking-system-seven-theta.vercel.app)
 
 - **Description**:
-- This modern banking web application enables users to seamlessly manage their finances across multiple banks in one place. It provides a secure and user-friendly interface for tracking balances, transactions, and transfers, offering a centralized hub for managing personal or business finances. Built using Next.js for server-side rendering and efficient routing, ReactJS for a dynamic and responsive user interface, and MongoDB for scalable, high-performance data storage, the application ensures fast and reliable access to financial data. The platform emphasizes user experience, security, and efficiency, providing a comprehensive solution for multi-bank account management
+- This modern banking web application enables users to manage their finances across multiple banks in one place seamlessly. It provides a secure and user-friendly interface for tracking balances, transactions, and transfers, offering a centralized hub for managing personal or business finances. Built using Next.js for server-side rendering and efficient routing, ReactJS for a dynamic and responsive user interface, and MongoDB for scalable, high-performance data storage, the application ensures fast and reliable access to financial data. The platform emphasizes user experience, security, and efficiency, providing a comprehensive solution for multi-bank account management
   
 ## Tech Stack
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -71,8 +71,23 @@ These are some of the projects I have been working on
 ## Tech Stack
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 3. [billnasi](https://app.billnasisolutions.com/demo)
+- **Description**: 
+BillNasi is an advanced and easy-to-use ISP management application designed to simplify the control of your network operations. Built with seamless integration for MikroTik routers, BillNasi provides a centralized dashboard to manage Hotspot and PPPoE clients, track real-time data usage, monitor revenues, and generate comprehensive statistics. With features such as instant reconnections, SMS alerts, and a reliable 99% uptime, BillNasi ensures a smooth and effective user experience for both ISPs and their clients.
+
+## Key Features
+- **Unified Dashboard**: Manage both Hotspot and PPPoE configurations from one user-friendly interface, eliminating the need for multiple platforms.
+**Unlimited Router Support**: BillNasi allows you to control and manage multiple MikroTik routers from one place.
+**Instant Client Reconnection**: Experience real-time reconnection for clients without delays or service interruptions.
+**Automated SMS Alerts**: Keep clients informed with instant SMS notifications for important events like reconnections, data usage limits, or service disruptions.
+**Real-Time Analytics**: Track data usage, revenue, and network statistics in real time to make data-driven decisions that improve performance and profitability.
+**Reliable Uptime**: With a consistent 99% uptime and regular system upgrades, BillNasi ensures that your network management tools are always accessible when you need them.
+
+## Tech Stack
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
   
-### 3. [MedDrone](https://github.com/JamesWainaina/MedDrone)
+### 4. [MedDrone](https://github.com/JamesWainaina/MedDrone)
 
 - **Description**: MedDrone: Revolutionizing Medicine Delivery via Drones
 MedDrone is an innovative RESTful API designed to manage the entire lifecycle of drone-based medicine delivery systems. With MedDrone, healthcare providers can harness the power of autonomous drones to deliver life-saving medications with speed, accuracy, and reliability—especially in remote or hard-to-reach areas.
@@ -85,7 +100,7 @@ Our API offers seamless management of the drone fleet, real-time tracking, and o
 
 
 
-### 4. [KeySpring](https://github.com/JamesWainaina/keySPring-)
+### 5. [KeySpring](https://github.com/JamesWainaina/keySPring-)
 
 - **Description**: is a Spring Boot-based application that integrates with **Keycloak** to provide secure, robust, and easy-to-manage authentication and authorization for users. This project demonstrates how to use Keycloak for identity and access management in a Spring Boot application, covering configuration, integration, and usage of OAuth2 and OpenID Connect protocols for seamless security management.
 
@@ -103,7 +118,7 @@ Our API offers seamless management of the drone fleet, real-time tracking, and o
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 5. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
+### 6. [FastSearchDaemon](https://github.com/JamesWainaina/FastSearchDaemon)
 
 - **Description**:
 This multi-threaded TCP server handles concurrent client connections and efficiently performs string searches within large files. The server can read configuration files to dynamically locate a file path and check if a specified string exists in that file. The system is optimized for performance and includes security features like SSL authentication for encrypted communication.
@@ -126,12 +141,12 @@ This multi-threaded TCP server handles concurrent client connections and efficie
 - **SSL/TLS**: Secure communication between clients and the server.
 
 
-### 6. [Terminal Screen](https://github.com/JamesWainaina/Terminal-Screen)
+### 7. [Terminal Screen](https://github.com/JamesWainaina/Terminal-Screen)
 
 - **Description**:
 The Terminal Screen Project simulates rendering operations on a terminal-based screen using a custom binary protocol. This project involves a server-client setup where the server listens for commands related to screen rendering, and the client sends commands to the server to manipulate the terminal screen. 
 
-The communication between the client and the server is based on a byte-stream protocol, with each command being formatted as a sequence of bytes. The system supports various operations, such as setting up the screen, drawing characters, lines, rendering text, moving the cursor, and more.
+The communication between the client and the server is based on a byte-stream protocol, with each command being formatted as a sequence of bytes. The system supports various operations, such as setting up the screen, drawing characters, and lines, rendering text, moving the cursor, and more.
 
 
 ## Features
