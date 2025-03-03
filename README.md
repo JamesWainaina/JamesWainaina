@@ -52,7 +52,7 @@ These are some of the projects I have been working on
 ### 1. [Horizon](https://banking-system-seven-theta.vercel.app)
 
 - **Description**:
-- This modern banking web application enables users to manage their finances across multiple banks in one place seamlessly. It provides a secure and user-friendly interface for tracking balances, transactions, and transfers, offering a centralized hub for managing personal or business finances. Built using Next.js for server-side rendering and efficient routing, ReactJS for a dynamic and responsive user interface, and MongoDB for scalable, high-performance data storage, the application ensures fast and reliable access to financial data. The platform emphasizes user experience, security, and efficiency, providing a comprehensive solution for multi-bank account management
+- This modern banking web application enables users to manage their finances seamlessly across multiple banks in one place. It provides a secure and user-friendly interface for tracking balances, transactions, and transfers, offering a centralized hub for managing personal or business finances. Built using Next.js for server-side rendering and efficient routing, ReactJS for a dynamic and responsive user interface, and Appwrite for scalable, high-performance data storage, the application ensures fast and reliable access to financial data. The platform emphasizes user experience, security, and efficiency, providing a comprehensive solution for multi-bank account management
   
 ## Tech Stack
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -74,14 +74,14 @@ These are some of the projects I have been working on
 
 ### 3. [billnasi](https://app.billnasisolutions.com/demo)
 - **Description**: 
-BillNasi is an advanced and easy-to-use ISP management application designed to simplify the control of your network operations. Built with seamless integration for MikroTik routers, BillNasi provides a centralized dashboard to manage Hotspot and PPPoE clients, track real-time data usage, monitor revenues, and generate comprehensive statistics. With features such as instant reconnections, SMS alerts, and a reliable 99% uptime, BillNasi ensures a smooth and effective user experience for both ISPs and their clients.
+BillNasi is an advanced and easy-to-use ISP management application designed to simplify the control of your network operations. Built with seamless integration for MikroTik routers, BillNasi provides a centralized dashboard to manage Hotspot and PPPoE clients, track real-time data usage, monitor revenues, and generate comprehensive statistics. With features such as instant reconnections, SMS alerts, and a reliable 99% uptime, BillNasi ensures a smooth and effective user experience for ISPs and their clients.
 
 ## Key Features
 - **Unified Dashboard**: Manage both Hotspot and PPPoE configurations from one user-friendly interface, eliminating the need for multiple platforms.
 - **Unlimited Router Support**: BillNasi allows you to control and manage multiple MikroTik routers from one place.
 - **Instant Client Reconnection**: Experience real-time reconnection for clients without delays or service interruptions.
 - **Automated SMS Alerts**: Keep clients informed with instant SMS notifications for important events like reconnections, data usage limits, or service disruptions.
-- **Real-Time Analytics**: Track data usage, revenue, and network statistics in real time to make data-driven decisions that improve performance and profitability.
+- **Real-Time Analytics**: Track data usage, revenue, and network statistics in real-time to make data-driven decisions that improve performance and profitability.
 - **Reliable Uptime**: With a consistent 99% uptime and regular system upgrades, BillNasi ensures that your network management tools are always accessible when you need them.
 
 ## Tech Stack
