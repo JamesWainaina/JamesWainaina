@@ -88,11 +88,11 @@ BillNasi is an advanced and easy-to-use ISP management application designed to s
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   
-### 4. [MedDrone](https://github.com/JamesWainaina/MedDrone)
+### 4. [MedDronic](https://github.com/JamesWainaina/MedDrone)
 
-- **Description**: MedDrone: Revolutionizing Medicine Delivery via Drones
-MedDrone is an innovative RESTful API designed to manage the entire lifecycle of drone-based medicine delivery systems. With MedDrone, healthcare providers can harness the power of autonomous drones to deliver life-saving medications with speed, accuracy, and reliability—especially in remote or hard-to-reach areas.
-Our API offers seamless management of the drone fleet, real-time tracking, and optimized delivery routes to ensure efficient and timely deliveries. By integrating cutting-edge technology, MedDrone not only enhances the logistics of medicine distribution but also helps reduce response times in emergencies, potentially saving countless lives.
+- **Description**:Revolutionizing Medicine Delivery via Drones
+Medtronic is an innovative RESTful API designed to manage the entire lifecycle of drone-based medicine delivery systems. With MedDrone, healthcare providers can harness the power of autonomous drones to deliver life-saving medications with speed, accuracy, and reliability—especially in remote or hard-to-reach areas.
+Our API offers seamless drone fleet management, real-time tracking, and optimized delivery routes to ensure efficient and timely deliveries. By integrating cutting-edge technology, MedDrone not only enhances the logistics of medicine distribution but also helps reduce response times in emergencies, potentially saving countless lives.
 
   
 ## Tech Stack
