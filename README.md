@@ -126,7 +126,7 @@ This multi-threaded TCP server handles concurrent client connections and efficie
 
 ## Features
 
-- **Multi-threading Support**: Handles a large number of concurrent client requests in parallel.
+- **Multi-threading Support**: Handles many concurrent client requests in parallel.
 - **String Search**: Searches for an exact match of a string in a file, ensuring full line matches (not partial).
 - **Optimized Search**: Configurable behavior to either re-read the file on every query (`REREAD_ON_QUERY=True`) or read it once at startup (`REREAD_ON_QUERY=False`).
 - **Large File Handling**: Supports large files (up to 250,000 lines) with optimized search algorithms.
